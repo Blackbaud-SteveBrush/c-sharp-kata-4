@@ -1,4 +1,4 @@
-# c-sharp-kata-4
+# C# Kata 4: JSON
 
 **Complete all of Kata #3, but this time:**
  
